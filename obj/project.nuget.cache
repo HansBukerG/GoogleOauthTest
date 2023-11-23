@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "celb+DKaZkXMFwaaakJzSkZ4l0KAwtrpoNTDo0eHs74SlB8DNdZHZfLN20WdyV8+/K7fRaUSssIxNzpyszVmbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leonera dev2\\Desktop\\projects\\Auth Login Test\\GoogleTest02\\GoogleTest02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonera dev2\\.nuget\\packages\\google.apis\\1.64.0\\google.apis.1.64.0.nupkg.sha512",
+    "C:\\Users\\Leonera dev2\\.nuget\\packages\\google.apis.auth\\1.64.0\\google.apis.auth.1.64.0.nupkg.sha512",
+    "C:\\Users\\Leonera dev2\\.nuget\\packages\\google.apis.core\\1.64.0\\google.apis.core.1.64.0.nupkg.sha512",
+    "C:\\Users\\Leonera dev2\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Leonera dev2\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Leonera dev2\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
